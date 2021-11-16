@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Marvel Custom Website
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://www.linkedin.com/in/gaurav-joshi-233135225/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... love to listen music 
--->
+
