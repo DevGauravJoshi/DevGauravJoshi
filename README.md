@@ -33,7 +33,7 @@
 <br/>
 
 <a href="https://github.com/Gaurav-jo1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaurav-jo1&theme=buefy&show_icons=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Gaurav-jo1&theme=buefy&show_icons=true" />
 </a>
 
 <br/>
