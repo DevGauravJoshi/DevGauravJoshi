@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> </h4>
 
-<h3> My name is  Gaurav Joshi, a Fullstack web developer. </h3>
+<h3> My name is  Gaurav Joshi and I am a Fullstack web developer. </h3>
 
 <h4> I am a firm believer in technology to transform and improve the lives of people around the world. Seeing how technology is keeping things going on during these difficult times inspires me every day. </h4>
 
