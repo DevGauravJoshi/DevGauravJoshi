@@ -1,6 +1,3 @@
-
-[![Header](https://raw.githubusercontent.com/Gaurav-jo1/Gaurav-jo1/master/readme_header.png "Header")](https://martinheinz.dev/)
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> </h4>
 
 <h3> My name is  Gaurav Joshi, a Fullstack web developer. </h3>
