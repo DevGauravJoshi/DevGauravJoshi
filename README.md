@@ -6,7 +6,7 @@
 
 <h4>I am a learner. I believe one should never stop learning because life never stops teaching. I am interested in, Web Development, Open Source, and Leaning new technologies.</h4> 
 
-<h4>So far, I have Django as Backend,Django rest Framework,React.js as Frontend,JavaScript,Python,React Query,SCSS/CSS,Git/Github, PostgreSQL as Database under my belt. I enthusiastically grab the programming languages or frameworks that I can integrate into the coding web in my head💭.</h4>
+<h4>So far, I have Django as Backend,Django rest Framework, React.js as Frontend, JavaScript, Python, React Query, SCSS/CSS, Git/Github, PostgreSQL as Database under my belt. I enthusiastically grab the programming languages or frameworks that I can integrate into the coding web in my head💭.</h4>
 
 <h4>I learn, build and optimize. I love to work alone, but when I am in a team I become more creative, and working in a team makes me better. I focus on making products that make life easier⚙️.</h4>
 
@@ -16,7 +16,7 @@
 - 🤔 &nbsp; Exploring new technologies and Programming languages.
 - 🎓 &nbsp; Self taught programmer.
 - 🌱 &nbsp; Learning more about Web development and exploring new tech.
-- ✍️ &nbsp; Pursuing ML and Dev Ops as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing ML and DevOps as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
