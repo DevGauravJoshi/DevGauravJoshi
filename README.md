@@ -6,7 +6,7 @@
 
 <h4>I am a learner. I believe one should never stop learning because life never stops teaching. I am interested in, Web Development, Open Source, and Leaning new technologies.</h4> 
 
-<h4>So far, I have Django/React.js, CSS/SASS, JavaScript,Python, HTML, Git/Github, PostgreSQL under my belt. I enthusiastically grab the programming languages or frameworks that I can integrate into the coding web in my head💭.</h4>
+<h4>So far, I have Django as Backend,Django rest Framework,React.js as Frontend,JavaScript,Python,React Query,SCSS/CSS,Git/Github, PostgreSQL as Database under my belt. I enthusiastically grab the programming languages or frameworks that I can integrate into the coding web in my head💭.</h4>
 
 <h4>I learn, build and optimize. I love to work alone, but when I am in a team I become more creative, and working in a team makes me better. I focus on making products that make life easier⚙️.</h4>
 
@@ -15,9 +15,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and Programming languages.
 - 🎓 &nbsp; Self taught programmer.
-- 💼 &nbsp; Working as a Freelancer.
 - 🌱 &nbsp; Learning more about Web development and exploring new tech.
-- ✍️ &nbsp; Pursuing AI and App Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing ML and Dev Ops as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -28,13 +27,14 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
-
+  ![SASS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS)
+  ![React Query](https://img.shields.io/badge/-React%20Query-333333?style=flat&logo=react-query)
   
 - 👨 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-333333?style=flat&logo=django-rest-framework)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -46,6 +46,6 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
 ## &#x1f4c8; GitHub Stats
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-jo1)](https://github.com/Gaurav-jo1/github-readme-stats)
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav-jo1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav-jo1&show_icons=true&theme=radical)
