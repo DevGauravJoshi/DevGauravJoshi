@@ -46,6 +46,6 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
 ## &#x1f4c8; GitHub Stats
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-jo1)](https://github.com/Gaurav-jo1/github-readme-stats)
   ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav-jo1&show_icons=true&theme=radical)
