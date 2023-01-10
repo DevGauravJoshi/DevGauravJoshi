@@ -1,6 +1,5 @@
+![poster (2)](https://user-images.githubusercontent.com/93304640/211488853-d52d9b27-8405-407c-a454-143d42fd0855.png)
 
-<h1 align="center">Hi 👋, I'm Gaurav Joshi  </h1>
-<h3 align="center">I am skilled at developing and maintaining web applications from the ground up</h3>
 
 <p align="center">
 <a href="https://twitter.com/Gaurav1_Jo"><img alt="Twitter" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/twitter-512.png" width="60" height="60" /> </a> </p>
@@ -44,9 +43,6 @@
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-jo1&theme=dark&hide_border=false) &nbsp; &nbsp;
  ![](https://github-readme-stats.vercel.app/api?username=Gaurav-jo1&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
  
- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-jo1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
   
 
