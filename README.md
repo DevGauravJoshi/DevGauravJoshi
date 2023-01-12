@@ -2,7 +2,8 @@
 
 
 <p align="center">
-<a href="https://twitter.com/Gaurav1_Jo"><img alt="Twitter" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/twitter-512.png" width="60" height="60" /> </a> </p>
+<a href="https://twitter.com/Gaurav1_Jo"><img alt="Twitter" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/twitter-512.png" width="60" height="60" /> </a>
+</p>
 
  <p align="center">"I'm active on Twitter and love connecting with like-minded professionals. Feel free to follow me and say hi!"</p>
 
