@@ -57,8 +57,8 @@
 <p align="left">
 <a href="https://gauravjoshi.hashnode.dev/the-instagram-inspired-social-media-site" title="The Instagram inspired social media site"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676974049877/b42b5a77-b31a-4caf-afb5-bae6cad2bc3a.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Instagram inspired social media site" width="250px" align="left" /></a>
 <a href="https://gauravjoshi.hashnode.dev/the-instagram-inspired-social-media-site" title="The Instagram inspired social media site"><strong>The Instagram inspired social media site</strong></a>
-<div><strong>Jan 12, 2023 </strong></div>
-<br/> Building a social media platform like Instagram can be a challenging and exciting project for a programmer. 
+<div><strong>Feb 22, 2023 </strong></div>
+<br/>This article is a tutorial on building a backend for user sign-up, login, and authentication using Python
 </p> <br/> <br/>
 
 
