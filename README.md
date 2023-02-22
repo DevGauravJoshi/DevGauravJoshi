@@ -44,7 +44,7 @@
 
 
 <p align="left">
-<a href="https://gauravjoshi.hashnode.dev/the-instagram-inspired-social-media-site" title="The Instagram inspired social media site"><img src="https://gauravjoshi.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fstock%2Funsplash%2Fmj2NwYH3wBA%2Fupload%2Fff9b63b5be6a41eaf80d989be2ffc99a.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="The Instagram inspired social media site" width="250px" align="left" /></a>
+<a href="https://gauravjoshi.hashnode.dev/the-instagram-inspired-social-media-site" title="The Instagram inspired social media site"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675573759801/9a0ccc53-8a15-4871-90e7-2ffa28e27637.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Instagram inspired social media site" width="250px" align="left" /></a>
 <a href="https://gauravjoshi.hashnode.dev/the-instagram-inspired-social-media-site" title="The Instagram inspired social media site"><strong>The Instagram inspired social media site</strong></a>
 <div><strong>Jan 12, 2023 </strong></div>
 <br/> Building a social media platform like Instagram can be a challenging and exciting project for a programmer. 
