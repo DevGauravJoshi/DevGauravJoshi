@@ -45,18 +45,15 @@
 <p align="left">
 
 <a href="https://gauravjoshi.hashnode.dev/introducing-picture-pulse-new-social-media-site" title="The Instagram inspired social media site"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675573759801/9a0ccc53-8a15-4871-90e7-2ffa28e27637.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Instagram inspired social media site" width="250px" align="left" /></a>
-
 <a href="https://gauravjoshi.hashnode.dev/introducing-picture-pulse-new-social-media-site" title="The Instagram inspired social media site"><strong>The Instagram inspired social media site</strong></a>
-
 <div><strong>Jan 12, 2023 </strong></div>
-
 <br/> Building a social media platform like Instagram can be a challenging and exciting project for a programmer. 
-
 </p> <br/> <br/>
 
 <p align="left">
-<a href="https://gauravjoshi.hashnode.dev/building-a-system-for-user-registration-and-login-using-python-part-1" title="Building a System for User Registration and Login using Python (Part 1 )"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676974049877/b42b5a77-b31a-4caf-afb5-bae6cad2bc3a.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Building a System for User Registration and Login using Python (Part 1"  width="250px" align="left" /></a>
-<a href="https://gauravjoshi.hashnode.dev/building-a-system-for-user-registration-and-login-using-python-part-1" title="The Instagram inspired social media site"><strong>Building a System for User Registration and Login using Python (Part 1 )</strong></a>
+ 
+<a href="https://gauravjoshi.hashnode.dev/building-a-system-for-user-registration-and-login-using-python-part-1" title="Building a System for User Registration and Login using Python (Part 1 )"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676974049877/b42b5a77-b31a-4caf-afb5-bae6cad2bc3a.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Building a System for User Registration and Login using Python (Part 1)"  width="250px" align="left" /></a>
+<a href="https://gauravjoshi.hashnode.dev/building-a-system-for-user-registration-and-login-using-python-part-1" title="Building a System for User Registration and Login using Python (Part 1)"><strong>Building a System for User Registration and Login using Python (Part 1 )</strong></a>
 <div><strong>Feb 22, 2023 </strong></div>
 <br/>This article is a tutorial on building a backend for user sign-up, login, and authentication using Python
 </p> <br/> <br/>
