@@ -58,6 +58,14 @@
 <br/>This article is a tutorial on building a backend for user sign-up, login, and authentication using Python
 </p> <br/> <br/>
 
+<p align="left">
+ 
+<a href="https://gauravjoshi.hashnode.dev/building-a-system-for-user-registration-and-login-using-typescript-part-2" title="Building a System for User Registration and Login using TypeScript (Part 2 )"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677313533900/a1bc56f9-e1ba-459c-85e6-55da79f5ce33.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Building a System for User Registration and Login using TypeScript (Part 2 )"  width="250px" align="left" /></a>
+<a href="https://gauravjoshi.hashnode.dev/building-a-system-for-user-registration-and-login-using-typescript-part-2" title="Building a System for User Registration and Login using TypeScript (Part 2 )"><strong>Building a System for User Registration and Login using TypeScript (Part 2 )</strong></a>
+<div><strong>Mar 3, 2023 </strong></div>
+<br/>To begin with, we will be building the front end using React with TypeScript. As a prerequisite, you should have a basic understanding of JavaScript and TypeScript.
+</p> <br/> <br/>
+
 
 # 📊 GitHub Stats:
 
