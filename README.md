@@ -45,10 +45,10 @@
 
 <p align="left">
 
-<a href="https://gauravjoshi.hashnode.dev/introducing-picture-pulse-new-social-media-site" title="The Instagram inspired social media site"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675573759801/9a0ccc53-8a15-4871-90e7-2ffa28e27637.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Instagram inspired social media site" width="250px" align="left" /></a>
-<a href="https://gauravjoshi.hashnode.dev/introducing-picture-pulse-new-social-media-site" title="The Instagram inspired social media site"><strong>The Instagram inspired social media site</strong></a>
+<a href="https://gauravjoshi.hashnode.dev/introducing-picture-pulse-new-social-media-site" title="Introducing Picture Pulse: New Social Media Site"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675573759801/9a0ccc53-8a15-4871-90e7-2ffa28e27637.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Instagram inspired social media site" width="250px" align="left" /></a>
+<a href="https://gauravjoshi.hashnode.dev/introducing-picture-pulse-new-social-media-site" title="The Instagram inspired social media site"><strong>Introducing Picture Pulse: New Social Media Site</strong></a>
 <div><strong>Jan 12, 2023 </strong></div>
-<br/> Building a social media platform like Instagram can be a challenging and exciting project for a programmer. 
+<br/> Building a social media platform like Picture Pulse can be a challenging and exciting project for a programmer.
 </p> <br/> <br/>
 
 <p align="left">
