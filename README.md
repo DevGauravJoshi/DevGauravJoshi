@@ -1,13 +1,4 @@
-![poster (2)](https://user-images.githubusercontent.com/93304640/211488853-d52d9b27-8405-407c-a454-143d42fd0855.png)
 
-
-<p align="center">
-<a href="https://twitter.com/Gaurav1_Jo"><img alt="Twitter" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/twitter-512.png" width="60" height="60" /> </a>
-</p>
-
- <p align="center">"I'm active on Twitter and love connecting with like-minded professionals. Feel free to follow me and say hi!"</p>
-
-  
 
 # 💻 Tech Stack:
 
@@ -40,32 +31,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-
-# My Blog Posts 👇
-
-<p align="left">
-
-<a href="https://gauravjoshi.hashnode.dev/introducing-picture-pulse-new-social-media-site" title="Introducing Picture Pulse: New Social Media Site"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675573759801/9a0ccc53-8a15-4871-90e7-2ffa28e27637.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Instagram inspired social media site" width="250px" align="left" /></a>
-<a href="https://gauravjoshi.hashnode.dev/introducing-picture-pulse-new-social-media-site" title="The Instagram inspired social media site"><strong>Introducing Picture Pulse: New Social Media Site</strong></a>
-<div><strong>Jan 12, 2023 </strong></div>
-<br/> Building a social media platform like Picture Pulse can be a challenging and exciting project for a programmer.
-</p> <br/> <br/>
-
-<p align="left">
- 
-<a href="https://gauravjoshi.hashnode.dev/building-a-system-for-user-registration-and-login-using-python-part-1" title="Building a System for User Registration and Login using Python (Part 1 )"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676974049877/b42b5a77-b31a-4caf-afb5-bae6cad2bc3a.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Building a System for User Registration and Login using Python (Part 1)"  width="250px" align="left" /></a>
-<a href="https://gauravjoshi.hashnode.dev/building-a-system-for-user-registration-and-login-using-python-part-1" title="Building a System for User Registration and Login using Python (Part 1)"><strong>Building a System for User Registration and Login using Python (Part 1 )</strong></a>
-<div><strong>Feb 22, 2023 </strong></div>
-<br/>This article is a tutorial on building a backend for user sign-up, login, and authentication using Python
-</p> <br/> <br/>
-
-<p align="left">
- 
-<a href="https://gauravjoshi.hashnode.dev/building-a-system-for-user-registration-and-login-using-typescript-part-2" title="Building a System for User Registration and Login using TypeScript (Part 2 )"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677313533900/a1bc56f9-e1ba-459c-85e6-55da79f5ce33.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Building a System for User Registration and Login using TypeScript (Part 2 )"  width="250px" align="left" /></a>
-<a href="https://gauravjoshi.hashnode.dev/building-a-system-for-user-registration-and-login-using-typescript-part-2" title="Building a System for User Registration and Login using TypeScript (Part 2 )"><strong>Building a System for User Registration and Login using TypeScript (Part 2 )</strong></a>
-<div><strong>Mar 3, 2023 </strong></div>
-<br/>To begin with, we will be building the front end using React with TypeScript.
 </p> <br/> <br/>
 
 
