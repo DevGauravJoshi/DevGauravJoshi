@@ -32,11 +32,3 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 </p> <br/> <br/>
-
-
-# 📊 GitHub Stats:
-
- ![](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-jo1&theme=dark&hide_border=false)
- ![](https://github-readme-stats.vercel.app/api?username=Gaurav-jo1&show_icons=true&theme=radical)
- 
----
